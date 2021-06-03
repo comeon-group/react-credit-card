@@ -29,7 +29,10 @@
     "posttest:ci": "yarn posttest --test",
     "commit": "git-cz"
   },
-  "repository": "https://github.com/repaygithub/react-credit-card",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comeon-group/react-credit-card"
+  },
   "contributors": [
     "JamesNimlos <jnimlos@repay.com>",
     "Dhalton <dhuber@repay.com>"
