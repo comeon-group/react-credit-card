@@ -3,8 +3,12 @@ node_modules
 gh-pages
 coverage
 src
+scripts
 stories
-test
+tests
+.babelrc
+rollup.config.js
+tsconfig.json
 .storybook
 .github/*
 *.log
