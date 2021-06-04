@@ -5,9 +5,6 @@
   "main": "dist/react-credit-card.cjs.js",
   "module": "dist/react-credit-card.js",
   "typings": "dist/index.d.ts",
-  "files": [
-    "dist"
-  ],
   "scripts": {
     "clean": "rimraf coverage dist gh-pages",
     "dev": "start-storybook -p 9001 -c .storybook",
